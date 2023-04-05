@@ -1,0 +1,9 @@
+ana 3
+ion 5
+andrei 4
+vlad 10
+sergiu 10
+vasile 10
+jake 4
+maria 7
+iulia 7

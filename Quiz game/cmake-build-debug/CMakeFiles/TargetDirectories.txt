@@ -1,0 +1,3 @@
+E:/Iulia/Univ/an 1/pp2/cmake-build-debug/CMakeFiles/programmingprojectquiz.dir
+E:/Iulia/Univ/an 1/pp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Iulia/Univ/an 1/pp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
